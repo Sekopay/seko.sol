@@ -1,0 +1,2 @@
+# seko.sol
+Seko contract
